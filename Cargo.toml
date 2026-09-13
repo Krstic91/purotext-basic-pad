@@ -1,0 +1,9 @@
+[package]
+name = "bloc_de_notas_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27.2"
+rfd = "0.14.1"
+syntect = "5.2"
